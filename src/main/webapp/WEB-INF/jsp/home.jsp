@@ -24,13 +24,13 @@
 			<button type="submit" class="btn btn-primary">Save</button>
 		</form>
 		
-		<!-- <form action="getAlien">
+		<form action="getAlien">
 			 <div class="mb-3">
 			  <label for="exampleFormControlInput1" class="form-label">ID</label>
 			  <input type="text" class="form-control" id="exampleFormControlInput1" name="aid" >
 			</div>
-			<button type="submit" class="btn btn-primary">Save</button>
-		</form> -->
+			<button type="submit" class="btn btn-primary">Fetch</button>
+		</form> 
 	</div>
 </body>
 </html>

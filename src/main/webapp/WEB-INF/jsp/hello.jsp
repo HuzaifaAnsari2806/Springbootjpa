@@ -8,7 +8,6 @@
 </head>
 <body>
 		Hello World
-		<h1>${obj.aid }</h1>
-		<h1>${obj.aname }</h1>
+		<h1>${alien}</h1>
 </body>
 </html>
